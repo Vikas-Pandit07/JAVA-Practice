@@ -1,7 +1,7 @@
 package com.kodnest.InterviewQue;
 
 import java.util.*;
-
+// digital circuit
 public class DigitalCircuteSorter {
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);

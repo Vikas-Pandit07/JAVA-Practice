@@ -25,7 +25,7 @@ public class Links {
         System.out.println("Inserted at first: " + element);
     }
 
-    // Insert at end
+    // Insert at end of
     void insertLast(int element) {
         Node nn = new Node();
         nn.data = element;
